@@ -3,6 +3,7 @@
 #include <conio.h>
 #include <time.h>
 
+
 int main(void)
 {
     int i, j, flag = 0;
@@ -13,7 +14,7 @@ int main(void)
     int y = 10;
     char input;
     int isFire = 0;
-    
+
 
     while (1)
     {

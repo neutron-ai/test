@@ -1,0 +1,3 @@
+D:/VS code project/HELLO/CMakeFiles/hello.dir
+D:/VS code project/HELLO/CMakeFiles/ALL_BUILD.dir
+D:/VS code project/HELLO/CMakeFiles/ZERO_CHECK.dir

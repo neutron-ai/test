@@ -15,7 +15,6 @@ int main(void)
     char input;
     int isFire = 0;
 
-
     while (1)
     {
         system("cls");

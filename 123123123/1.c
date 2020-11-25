@@ -14,6 +14,7 @@ int main(void)
     int y = 10;
     char input;
     int isFire = 0;
+    
 
     while (1)
     {

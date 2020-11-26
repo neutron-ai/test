@@ -1,0 +1,3 @@
+D:/VS code project/The_first_trial/build/CMakeFiles/The_first_trial.dir
+D:/VS code project/The_first_trial/build/CMakeFiles/ALL_BUILD.dir
+D:/VS code project/The_first_trial/build/CMakeFiles/ZERO_CHECK.dir

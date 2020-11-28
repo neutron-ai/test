@@ -1,0 +1,3 @@
+D:/VS code project/z/build/CMakeFiles/z.dir
+D:/VS code project/z/build/CMakeFiles/ALL_BUILD.dir
+D:/VS code project/z/build/CMakeFiles/ZERO_CHECK.dir
